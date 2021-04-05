@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Carlos Javier Charotti
+About me
 ------
 I am a PhD student in Economics at The University of Manchester under the supervision of Prof. Akos Valentinyi and Dr. Nuno Palma. Graduate in Economics from the National University of Asunción, Paraguay. I completed a Master in Economics at the Torcuato Di Tella University and a Master in Public Policy at the University of Chicago in 2016 and 2019 respectively.  
 
