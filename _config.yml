@@ -83,11 +83,11 @@ author:
   name             : "Carlos Javier Charotti"
   avatar           : "Charotti_Carlos.jpg"
   bio              : "PhD student in Economics"
-  location         : "Manchester, United Kingdom"
-  employer         : "The University of Manchester"
+  location         : "Manchester, UK"
+  employer         : 
   pubmed           : 
   googlescholar    :
-  email            :
+  email            : "carlos.charottiramirez@manchester.uk.ac"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
