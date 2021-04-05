@@ -14,7 +14,7 @@ I am a PhD student in Economics at [The University of Manchester](https://www.ma
 
 Research interest
 ------
-Macroeconomics, Monetary Economics, Applied Econometrics, and Economic History
+Macroeconomics, Applied Econometrics, and Economic History
 
 
 
