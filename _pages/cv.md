@@ -27,17 +27,17 @@ Work experience
 * Director of the Macroeconomic Models Department
   * Central Bank of Paraguay
   * Duties included: 
-   * Presentation of inflation risk scenarios at the monthly Monetary Policy Meetings
-   * Policy analysis and forecast of the main macroeconomic variables
-   * Editing team of the Monetary Policy Report. 
+    * Presentation of inflation risk scenarios at the monthly Monetary Policy Meetings
+    * Policy analysis and forecast of the main macroeconomic variables
+    * Editing team of the Monetary Policy Report. 
   * Period: December 2014 – July 2017 
   * Other positions: Head of the Financial Market Department, Head of the Macroeconomic Models Department - DSGE Models, Economic Analyst of the Board of Directors, Researcher in Economic Studies, Intern at the Research Department in Economic Studies               
  
 * FResearcher
   * United Nations Industrial Development Organization 
   * Duties included:
-   * Conducting research on the export competitiveness of the oil sector in Paraguay
-   * Monitoring the macroeconomic and industrial activity
+    * Conducting research on the export competitiveness of the oil sector in Paraguay
+    * Monitoring the macroeconomic and industrial activity
   * Period: July 2007 – December 2007 
   
 Skills
