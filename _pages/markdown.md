@@ -10,16 +10,16 @@ redirect_from:
 ## Location
 
 * Visiting address:
-Department of Economics
-School of Social Sciences 
-The University of Manchester 
+Department of Economics \\
+School of Social Sciences \\
+The University of Manchester  
 3rd Floor, Arthur Lewis Building 
 Oxford Road 
 Manchester, M13 9PL, UK
 United Kingdom
 
 ## Email
-* carlos.charotti@postgrad.manchester.ac.uk
+* carlos.charottiramirez@manchester.ac.uk
 
 
 
