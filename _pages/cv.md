@@ -47,6 +47,10 @@ Skills
 * Stata
 * Python
 
+Prizes
+======
+* ESRC NWSSDTP - CASE Studentship (2019-2023)
+
 Publications
 ======
  <ul>{% for post in site.publications %} 
