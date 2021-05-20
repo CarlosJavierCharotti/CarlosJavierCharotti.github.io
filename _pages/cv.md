@@ -33,7 +33,7 @@ Work experience
   * Period: December 2014 – July 2017 
   * Other positions: Head of the Financial Market Department, Head of the Macroeconomic Models Department - DSGE Models, Economic Analyst of the Board of Directors, Researcher in Economic Studies, Intern at the Research Department in Economic Studies               
  
-* FResearcher
+* Researcher
   * United Nations Industrial Development Organization 
   * Duties included:
     * Conducting research on the export competitiveness of the oil sector in Paraguay
@@ -49,15 +49,13 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+ <ul>{% for post in site.publications %} 
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Referee Activity
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+The Manchester School
   
 Teaching
 ======
